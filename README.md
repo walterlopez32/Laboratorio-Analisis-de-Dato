@@ -33,7 +33,7 @@ Año_Registro y Mes_Registro: extracción temporal desde la fecha.
 
 Expectativa_rendimiento_min y Expectativa_rendimiento_max: separación de los rangos de rendimiento expresados en texto.
 
-Riesgo_Numerico: conversión de niveles de riesgo (“Bajo”, “Medio”, “Alto”) a valores 1, 2 y 3 respectivamente.
+
 
 Validación de calidad de datos:
 
@@ -60,7 +60,6 @@ Visualizaciones y relaciones
 
 Distribución de participantes por Rango_Edad y Tipo_de_activo.
 
-Mapa de calor de correlaciones entre variables numéricas para detectar relaciones lineales.
 
 Boxplot de Tasa de Interés vs Nivel de Riesgo, mostrando cómo la tasa varía según el perfil de riesgo.
 
@@ -121,8 +120,7 @@ Proponer estrategias de segmentación y personalización de productos bancarios.
 Python (Pandas, Matplotlib, Seaborn)
 
 Google Colab
-
-Excel / CSV como formato de intercambio
+CSV como formato de intercambio
 
 GitHub para documentación y versionado
 
@@ -130,4 +128,4 @@ GitHub para documentación y versionado
 
 Walter López
 Proyecto académico de análisis de datos financieros — 2025
-Repositorio: GitHub - Finance Trends Analysis
+Repositorio: GitHub - Laboratorio Analisis de Datos
